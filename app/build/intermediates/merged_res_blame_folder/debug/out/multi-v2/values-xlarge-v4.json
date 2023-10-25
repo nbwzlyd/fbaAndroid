@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/derek/games/fba4droid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/derek/games/fba4droid/app/src/main/res/values-xlarge/dimens.xml",
+                    "from": {
+                        "startLines": "18,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "619,671",
+                        "endColumns": "50,40",
+                        "endOffsets": "665,707"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "473,524",
+                        "endColumns": "50,40",
+                        "endOffsets": "519,560"
+                    }
+                },
+                {
+                    "source": "/Users/derek/.gradle/caches/transforms-3/47b8e2ba2762bfd620c08d496a6c85bc/transformed/appcompat-1.6.1/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

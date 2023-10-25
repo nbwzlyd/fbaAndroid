@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/layout-land/fragment_rom_detail.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/layout-land/fragment_rom_detail.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/layout-land/activity_rom_twopane.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/layout-land/activity_rom_twopane.xml"
+    }
+]

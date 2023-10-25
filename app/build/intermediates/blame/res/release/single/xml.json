@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/xml/input_preferences.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/xml/input_preferences.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/xml/neoprefs.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/xml/neoprefs.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/xml/cps2prefs.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/xml/cps2prefs.xml"
+    }
+]

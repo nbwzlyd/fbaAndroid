@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/user/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b07fc32c0e53b93743efd236410eb8b411f7d745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_4c56bac81eb498693a84b2d1ca591c767c0427a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f56463b31cd57114ecdbd323c68053c453922385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_c5c627fe716a47c079f863b86969183bff80e423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/DownLoad/fba4droid/app/libs/commons-net-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2298164a7c2484406f2aa5ac85b205d39019896f">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/commons-net-3.1_55bf0dcf76175a5267db618f941816e0b2c8f3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5baf83c34bdcfa14dfd19e8fa2b9b03d66466554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/DownLoad/fba4droid/app/libs/jsoup-1.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="99351550d1fa2e8147319dbafd3f3a79d4f4c6e5">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/jsoup-1.7.1_62058d3edb22031072e1e331084ecf95e4d183bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_e169d167ecd891983556df5bb17d48da3edc03ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/fba4droid/splashview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f812f0eabf5abd826f532ede398c637812d5531">
+        <dex dex="/home/user/DownLoad/fba4droid/app/build/intermediates/pre-dexed/debug/fba4droid-splashview-unspecified_9ed801159db33ba2aad51de871df3f6bd04c669d.jar" />
+    </item>
+
+</items>

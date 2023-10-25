@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/menu/menu.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/menu/rom_list.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/menu/rom_list.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/menu/rom_detail.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/menu/rom_detail.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/release/menu/menu_edit_input.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/menu/menu_edit_input.xml"
+    }
+]

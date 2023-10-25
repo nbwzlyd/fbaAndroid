@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/derek/games/fba4droid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/derek/.gradle/caches/transforms-3/47b8e2ba2762bfd620c08d496a6c85bc/transformed/appcompat-1.6.1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/derek/games/fba4droid/app/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "18,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "619,671",
+                        "endColumns": "50,40",
+                        "endOffsets": "665,707"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "264,315",
+                        "endColumns": "50,40",
+                        "endOffsets": "310,351"
+                    }
+                }
+            ]
+        }
+    ]
+}

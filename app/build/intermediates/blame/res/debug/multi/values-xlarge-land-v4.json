@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/user/DownLoad/fba4droid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 50,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "/home/user/DownLoad/fba4droid/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 50,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 40,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "/home/user/DownLoad/fba4droid/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 40,
+                        "endOffset": 707
+                    }
+                }
+            }
+        ]
+    }
+]

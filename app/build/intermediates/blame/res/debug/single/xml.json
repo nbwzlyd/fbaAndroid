@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/xml/neoprefs.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/xml/neoprefs.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/xml/cps2prefs.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/xml/cps2prefs.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.droidninja/filepicker/2.1.2/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/xml/input_preferences.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/xml/input_preferences.xml"
+    }
+]

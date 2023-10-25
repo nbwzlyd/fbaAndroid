@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_brightness.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/brightness.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launch.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/ic_launch.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_quitblack.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/quitblack.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_effects.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/effects.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_start.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_start.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_stick_bottom.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/stick_bottom.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_mail.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/mail.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_menu.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_no_screenshot.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/no_screenshot.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_filerview.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/filerview.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_back.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_delete.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_bgselector.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/bgselector.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout-large_fragment_rom_detail.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout-large/fragment_rom_detail.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_2_press.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_2_press.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_statelist.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/statelist.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_clones_off.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/clones_off.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_custom_bg_4.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/custom_bg_4.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_state.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/state.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_5_press.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_5_press.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_ratio.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/ratio.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_play.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/play.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_brightness.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/brightness.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_ratio.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/ratio.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_brightness.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/brightness.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_dip.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/dip.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_menu_find_holo_light.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/ic_menu_find_holo_light.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_clones_off.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/clones_off.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_menu_find_holo_light.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/ic_menu_find_holo_light.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_folder.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/folder.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_scanline_25.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_scanline_25.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_menu_moreoverflow_normal_holo_light.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_3.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_3.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_back.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_effects.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/effects.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_5.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_5.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_scanline_50.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_scanline_50.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-ldpi_clones_on.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-ldpi/clones_on.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_dip.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/dip.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_filerlist.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/filerlist.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_folder.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/folder.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout-xlarge_fragment_rom_detail.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout-xlarge/fragment_rom_detail.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_search.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-ldpi_folder.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-ldpi/folder.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_coins_press.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_coins_press.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_scanline_test.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_scanline_test.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launch.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/ic_launch.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_custom_bg_2.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/custom_bg_2.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_2.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_2.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-ldpi_clones_off.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-ldpi/clones_off.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_crt2_10.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_crt2_10.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_crt1_25.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_crt1_25.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/xml_neoprefs.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/xml/neoprefs.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-ldpi_search.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-ldpi/search.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-ldpi_play.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-ldpi/play.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_menu_moreoverflow_normal_holo_light.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout-land_fragment_rom_detail.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout-land/fragment_rom_detail.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_notice.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/notice.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_4_press.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_4_press.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_settings.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/settings.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/xml_preferences.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_quitblack.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/quitblack.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_clones_on.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/clones_on.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_1_press.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_1_press.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-ldpi_back.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_effects.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/effects.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_3_press.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_3_press.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_back.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_emulator.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/emulator.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_6_press.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_6_press.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/menu_menu.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_clones_off.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/clones_off.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_delete.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/delete.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_start_press.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_start_press.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_noicon.jpg.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/noicon.jpg"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_ratio.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/ratio.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_clones_on.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/clones_on.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout-xlarge-land_fragment_rom_detail.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout-xlarge-land/fragment_rom_detail.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_search.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/search.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_6.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_6.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_custom_bg_1.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/custom_bg_1.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_activity_rom_list.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/activity_rom_list.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout-large-land_fragment_rom_detail.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout-large-land/fragment_rom_detail.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_settings.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_folder.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/folder.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-ldpi_delete.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-ldpi/delete.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_play.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/play.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_clones_on.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/clones_on.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_quitblack.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/quitblack.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout-land_activity_rom_twopane.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout-land/activity_rom_twopane.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_coins.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_coins.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launch.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-ldpi/ic_launch.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_activity_rom_twopane.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/activity_rom_twopane.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_1.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_1.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launch.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xxhdpi/ic_launch.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_shadow.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_custom1.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_custom1.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_play.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/play.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/menu_rom_list.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/menu/rom_list.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_menu_moreoverflow_normal_holo_light.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_input.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/input.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/xml_cps2prefs.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/xml/cps2prefs.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_search.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_scanline_100.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_scanline_100.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_stick.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/stick.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/menu_rom_detail.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/menu/rom_detail.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_scanline_75.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_scanline_75.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_crt1_10.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_crt1_10.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_crt2_25.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_crt2_25.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_button_4.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/button_4.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_input.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/input.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/raw_copying.txt.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/raw/copying.txt"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-hdpi_state.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-hdpi/state.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-xhdpi_delete.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-xhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launch.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/ic_launch.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/xml_input_preferences.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/xml/input_preferences.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_activity_rom_detail.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/activity_rom_detail.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_effect_twisty.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/effect_twisty.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/layout_fragment_rom_detail.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/layout/fragment_rom_detail.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_input.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/input.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_custom_bg_3.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/custom_bg_3.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/menu_menu_edit_input.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/menu/menu_edit_input.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_menu_find_holo_light.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/ic_menu_find_holo_light.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable_menubuttonbg.xml.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable/menubuttonbg.xml"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_state.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/state.png"
+    },
+    {
+        "merged": "/Users/derek/games/fba4droid/app/build/intermediates/merged_res/debug/drawable-mdpi_settings.png.flat",
+        "source": "/Users/derek/games/fba4droid/app/src/main/res/drawable-mdpi/settings.png"
+    }
+]

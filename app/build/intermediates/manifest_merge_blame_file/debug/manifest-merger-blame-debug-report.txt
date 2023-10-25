@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.codegg.fba"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:8:5-71
+12-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:8:22-68
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:9:5-81
+13-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:10:5-67
+14-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:10:22-64
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:11:5-66
+15-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:11:22-63
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:12:5-79
+16-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:12:22-76
+17
+18    <permission
+18-->[androidx.core:core:1.9.0] /Users/derek/.gradle/caches/transforms-3/caab0e6d9991117c41e09263bc1d680f/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+19        android:name="com.codegg.fba.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.9.0] /Users/derek/.gradle/caches/transforms-3/caab0e6d9991117c41e09263bc1d680f/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.9.0] /Users/derek/.gradle/caches/transforms-3/caab0e6d9991117c41e09263bc1d680f/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.codegg.fba.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.9.0] /Users/derek/.gradle/caches/transforms-3/caab0e6d9991117c41e09263bc1d680f/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.9.0] /Users/derek/.gradle/caches/transforms-3/caab0e6d9991117c41e09263bc1d680f/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:14:5-41:19
+25        android:allowBackup="true"
+25-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:15:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.9.0] /Users/derek/.gradle/caches/transforms-3/caab0e6d9991117c41e09263bc1d680f/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:label="@string/name"
+28-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:16:9-37
+29        android:testOnly="true"
+30        android:theme="@style/aFBATheme" >
+30-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:17:9-41
+31        <activity
+31-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:18:9-28:20
+32            android:name="com.codegg.fba.activity.romListActivity"
+32-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:19:13-67
+33            android:configChanges="orientation|keyboardHidden|screenSize"
+33-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:20:13-74
+34            android:exported="true"
+34-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:21:13-36
+35            android:icon="@drawable/ic_launch" >
+35-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:22:13-47
+36            <intent-filter>
+36-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:23:13-27:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:24:17-69
+37-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:24:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:26:17-77
+39-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:26:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:29:9-35:20
+43            android:name="com.codegg.fba.activity.romDetailActivity"
+43-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:30:13-69
+44            android:label="@string/name" >
+44-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:31:13-41
+45            <meta-data
+45-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:32:13-34:61
+46                android:name="android.support.PARENT_ACTIVITY"
+46-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:33:17-63
+47                android:value=".activity.romListActivity" />
+47-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:34:17-58
+48        </activity>
+49        <activity
+49-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:36:9-40:66
+50            android:name="org.libsdl.app.SDLActivity"
+50-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:37:13-54
+51            android:configChanges="orientation|keyboardHidden|screenSize"
+51-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:38:13-74
+52            android:label="code_gg"
+52-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:39:13-36
+53            android:theme="@style/aFBAThemeOverlayAB" />
+53-->/Users/derek/games/fba4droid/app/src/main/AndroidManifest.xml:40:13-54
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/derek/.gradle/caches/transforms-3/ba078b9b77c94bd81e394349a7738812/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/derek/.gradle/caches/transforms-3/ba078b9b77c94bd81e394349a7738812/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+57            android:authorities="com.codegg.fba.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/derek/.gradle/caches/transforms-3/ba078b9b77c94bd81e394349a7738812/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.2.0] /Users/derek/.gradle/caches/transforms-3/ba078b9b77c94bd81e394349a7738812/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.2.0] /Users/derek/.gradle/caches/transforms-3/ba078b9b77c94bd81e394349a7738812/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.2.0] /Users/derek/.gradle/caches/transforms-3/ba078b9b77c94bd81e394349a7738812/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.2.0] /Users/derek/.gradle/caches/transforms-3/ba078b9b77c94bd81e394349a7738812/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/derek/.gradle/caches/transforms-3/d6efe1862a21fbaf9b16fa1f4f77e7fe/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/derek/.gradle/caches/transforms-3/d6efe1862a21fbaf9b16fa1f4f77e7fe/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/derek/.gradle/caches/transforms-3/d6efe1862a21fbaf9b16fa1f4f77e7fe/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>

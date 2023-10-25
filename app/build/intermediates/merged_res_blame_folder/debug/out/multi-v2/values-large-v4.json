@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/derek/games/fba4droid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/derek/games/fba4droid/app/src/main/res/values-large/refs.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "84",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "624",
+                        "endColumns": "84",
+                        "endOffsets": "704"
+                    }
+                },
+                {
+                    "source": "/Users/derek/games/fba4droid/app/src/main/res/values-large/dimens.xml",
+                    "from": {
+                        "startLines": "18,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "619,671",
+                        "endColumns": "50,40",
+                        "endOffsets": "665,707"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "532,583",
+                        "endColumns": "50,40",
+                        "endOffsets": "578,619"
+                    }
+                },
+                {
+                    "source": "/Users/derek/.gradle/caches/transforms-3/47b8e2ba2762bfd620c08d496a6c85bc/transformed/appcompat-1.6.1/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,709,813",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,808,924"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/drawable-ldpi/clones_on.png",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/drawable-ldpi/clones_on.png"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/drawable-ldpi/clones_off.png",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/drawable-ldpi/clones_off.png"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/drawable-ldpi/delete.png",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/drawable-ldpi/delete.png"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/drawable-ldpi/back.png",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launch.png",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/drawable-ldpi/ic_launch.png"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/drawable-ldpi/search.png",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/drawable-ldpi/search.png"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/drawable-ldpi/play.png",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/drawable-ldpi/play.png"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/drawable-ldpi/folder.png",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/drawable-ldpi/folder.png"
+    }
+]

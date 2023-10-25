@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/menu/media_detail_menu.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.droidninja/filepicker/2.1.2/res/menu/media_detail_menu.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/menu/select_menu.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.droidninja/filepicker/2.1.2/res/menu/select_menu.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/menu/picker_menu.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/build/intermediates/exploded-aar/com.droidninja/filepicker/2.1.2/res/menu/picker_menu.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/menu/menu_edit_input.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/menu/menu_edit_input.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/menu/rom_list.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/menu/rom_list.xml"
+    },
+    {
+        "merged": "/home/user/DownLoad/fba4droid/app/build/intermediates/res/merged/debug/menu/rom_detail.xml",
+        "source": "/home/user/DownLoad/fba4droid/app/src/main/res/menu/rom_detail.xml"
+    }
+]
